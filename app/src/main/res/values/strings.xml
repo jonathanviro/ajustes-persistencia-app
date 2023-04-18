@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ajustes-persistencia-app</string>
+    <string name="dark_mode">Modo oscuro</string>
+    <string name="enable_bluetooth">Activar Bluetooth</string>
+    <string name="description_bluetooth">Conecta perfericos sin cables</string>
+    <string name="description_dark_mode">Activa el modo oscuro para un cambio visual</string>
+    <string name="vibration_in_call">Vibrar en las llamadas</string>
+    <string name="up_volume">Subir el volumen</string>
+</resources>
